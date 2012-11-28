@@ -1,6 +1,8 @@
+**(NOTICE: This document is not in original distribution. Original README file is README.txt (in Japanese). You can get more information at the TOPPERS officail site: http://www.toppers.jp/en/index.html)**
+
 # TOPPERS/ASP Kernel（Release 1.7.0）
 
-    Toyohashi Open Platform for Embedded Real-Time Systems / Advanced Standard Profile Kernel
+_Toyohashi Open Platform for Embedded Real-Time Systems / Advanced Standard Profile Kernel_
 
 
 The TOPPERS/ASP kernel (hereinafter ASP kernel) is the foundation for
@@ -9,8 +11,6 @@ new generation kernel specification. ASP (Advanced Standard Profile)
 has been developed - as it name suggests - by extending and improving TOPPERS/JSP,
 a real-time kernel based on the standard profile of μITRON4.0.
 
-
-(NOTE: This document is not in original distribution. Original README file is README.txt (in Japanese). You can get more information at the TOPPERS officail site: http://www.toppers.jp/en/index.html)
 
 ## Lincese
 
